@@ -1,0 +1,23 @@
+{
+  "name": "aryan-pin",
+  "version": "0.0.1",
+  "description": "A simple Node.js wrapper for Aryan Rayhan Pinterest API endpoint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pinterest",
+    "api",
+    "image",
+    "nix"
+  ],
+  "author": "ArYAN",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    
+  }
+}
