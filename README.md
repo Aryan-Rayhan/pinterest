@@ -1,4 +1,4 @@
-# aryan-pin: Simple Pinterest Image Search 🖼️
+# aryan-pin Simple Pinterest Image Search 🖼️
 
 [![npm version](https://badge.fury.io/js/aryan-pin.svg)](https://www.npmjs.com/package/aryan-pin)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
