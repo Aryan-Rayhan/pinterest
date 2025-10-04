@@ -21,7 +21,7 @@ async function _getJson(url) {
 
         return json;
     } catch (err) {
-        throw new Error(`pinterest Error: ${err.message}`);
+        throw new Error(`aryan-pin Error: ${err.message}`); 
     }
 }
 
